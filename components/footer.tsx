@@ -22,17 +22,12 @@ export default function Footer() {
               Kristiani mahasiswa melalui program mentoring.
             </p>
             <div className="flex gap-4">
-              <Link href="https://facebook.com" target="_blank" rel="noopener noreferrer">
-                <Button variant="ghost" size="icon" aria-label="Facebook">
-                  <FacebookIcon className="h-5 w-5" />
-                </Button>
-              </Link>
-              <Link href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+              <Link href="https://instagram.com/bmmk.telu" target="_blank" rel="noopener noreferrer">
                 <Button variant="ghost" size="icon" aria-label="Instagram">
                   <InstagramIcon className="h-5 w-5" />
                 </Button>
               </Link>
-              <Link href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
+              <Link href="https://wa.me/6285951481436" target="_blank" rel="noopener noreferrer">
                 <Button variant="ghost" size="icon" aria-label="WhatsApp">
                   <WhatsappIcon className="h-5 w-5" />
                 </Button>
