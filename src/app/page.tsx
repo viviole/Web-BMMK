@@ -10,26 +10,26 @@ import { motion } from "framer-motion"
 export default function Home() {
   const programs = [
     {
-      title: "Mentoring Kelompok",
+      title: "Mentoring Kelas Kecil",
       description:
         "Program mentoring dalam kelompok kecil untuk membangun karakter Kristiani dan memahami Alkitab bersama.",
       icon: <UsersIcon className="h-10 w-10 text-primary" />,
       link: "#",
     },
     {
-      title: "Retreat Rohani",
+      title: "Mentoring Kelas Besar",
       description: "Kegiatan retreat untuk memperdalam iman dan membangun kebersamaan antar mahasiswa Kristen.",
       icon: <HeartIcon className="h-10 w-10 text-primary" />,
       link: "#",
     },
     {
-      title: "Studi Alkitab",
+      title: "Sekolah Mentor",
       description: "Sesi pembelajaran Alkitab secara mendalam dengan pembimbing yang berpengalaman.",
       icon: <BookOpenIcon className="h-10 w-10 text-primary" />,
       link: "#",
     },
     {
-      title: "Seminar Kristiani",
+      title: "Creation Camp",
       description: "Seminar dengan topik-topik relevan untuk kehidupan mahasiswa Kristen di era modern.",
       icon: <CalendarIcon className="h-10 w-10 text-primary" />,
       link: "#",

@@ -88,19 +88,19 @@ export default function Footer() {
               <div className="flex items-center gap-3">
                 <PhoneIcon className="h-5 w-5 text-primary shrink-0" />
                 <Link
-                  href="tel:+6281234567890"
+                  href="wa.me/6285951481436"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  +62 812 3456 7890
+                  +62 859 5148 1436
                 </Link>
               </div>
               <div className="flex items-center gap-3">
                 <SendIcon className="h-5 w-5 text-primary shrink-0" />
                 <Link
-                  href="mailto:info@bmmk.org"
+                  href="mailto:bmmktelkomuniversity@gmail.com"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  info@bmmk.org
+                  bmmktelkomuniversity@gmail.com
                 </Link>
               </div>
             </div>
