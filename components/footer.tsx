@@ -83,7 +83,7 @@ export default function Footer() {
             <div className="space-y-4">
               <div className="flex items-start gap-3">
                 <MapPinIcon className="h-5 w-5 text-primary shrink-0 mt-0.5" />
-                <p className="text-muted-foreground">Gedung Fakultas, Lantai 2, Ruang 203, Kampus Universitas</p>
+                <p className="text-muted-foreground">Lantai 2, Gedung Tokong Nanas, Telkom University</p>
               </div>
               <div className="flex items-center gap-3">
                 <PhoneIcon className="h-5 w-5 text-primary shrink-0" />
@@ -125,7 +125,7 @@ export default function Footer() {
           <h3 className="font-bold text-lg mb-4">Lokasi Kami</h3>
           <div className="w-full h-[300px] bg-muted rounded-lg overflow-hidden">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.4!2d106.8!3d-6.2!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMTInMDAuMCJTIDEwNsKwNDgnMDAuMCJF!5e0!3m2!1sen!2sid!4v1620000000000!5m2!1sen!2sid"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.3078567519065!2d107.62706637483593!3d-6.97295939302774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e9ac30aafd65%3A0x9733752f44f3302b!2sGedung%20Tokong%20Nanas%20Telkom%20University!5e0!3m2!1sid!2sid!4v1747033837835!5m2!1sid!2sid"
               width="100%"
               height="100%"
               style={{ border: 0 }}
