@@ -27,7 +27,7 @@ export default function Footer() {
                   <InstagramIcon className="h-5 w-5" />
                 </Button>
               </Link>
-              <Link href="https://wa.me/6285951481436" target="_blank" rel="noopener noreferrer">
+              <Link href="https://wa.me/6281260925103" target="_blank" rel="noopener noreferrer">
                 <Button variant="ghost" size="icon" aria-label="WhatsApp">
                   <WhatsappIcon className="h-5 w-5" />
                 </Button>
@@ -83,10 +83,10 @@ export default function Footer() {
               <div className="flex items-center gap-3">
                 <PhoneIcon className="h-5 w-5 text-primary shrink-0" />
                 <Link
-                  href="wa.me/6285951481436"
+                  href="wa.me/6281260925103"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  +62 859 5148 1436
+                  +62 812 6092 5103
                 </Link>
               </div>
               <div className="flex items-center gap-3">
