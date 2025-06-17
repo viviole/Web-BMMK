@@ -46,7 +46,6 @@ jobs:
       env:
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
-
   # Job untuk Security Scanning
   security-scan:
     name: Security Scan
@@ -154,4 +153,3 @@ jobs:
           Commit: ${{ github.sha }}
           Author: ${{ github.actor }}
         draft: false
-        prerelease: false
