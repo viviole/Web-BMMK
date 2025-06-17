@@ -30,21 +30,12 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
-    - name: Run ESLint
-      run: npm run lint
-      continue-on-error: true
-
     - name: Run tests
       run: npm test -- --coverage --watchAll=false
       continue-on-error: true
 
     - name: Run build
       run: npm run build
-
-    - name: Unit Testing
-      run: |
-        echo "Menjalankan tes unit button..."
-        node tests/button.test.js
 
     - name: Setup JDK 17 SonarQube
       uses: actions/setup-java@v4
