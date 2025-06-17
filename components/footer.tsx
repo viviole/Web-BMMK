@@ -2,7 +2,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { FacebookIcon, InstagramIcon, MapPinIcon, PhoneIcon, SendIcon, PhoneIcon as WhatsappIcon } from "lucide-react"
+import { InstagramIcon, MapPinIcon, PhoneIcon, SendIcon, PhoneIcon as WhatsappIcon } from "lucide-react"
 
 export default function Footer() {
   return (
