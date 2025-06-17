@@ -19,7 +19,7 @@ export default function Footer() {
             </div>
             <p className="text-muted-foreground mb-4">
               Badan Mentoring Mahasiswa Kristen (BMMK) adalah organisasi yang berfokus pada pembentukan karakter
-              Kristiani mahasiswa melalui program mentoring.
+              Kristiani mahasiswa melalui program mentoring
             </p>
             <div className="flex gap-4">
               <Link href="https://instagram.com/bmmk.telu" target="_blank" rel="noopener noreferrer">
